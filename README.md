@@ -34,7 +34,7 @@ team:오르지오(김형선, 황우혁)
 ## 👥 지원 팀
 | 이름 | 역할 | GitHub |
 |------|------|------|
-| 김형선 | 팀장, 백엔드 개발 | [GitHub](https://github.com/MyosoonHwang) |
+| 김형선 | 팀장, 백엔드 개발 | [GitHub](https://github.com/201910796) |
 | 황우혁 | 팀원, AI 모델 학습 및 ppt | [GitHub](https://github.com/MyosoonHwang) |
 
 ## ➡ 증리 내용
