@@ -1,5 +1,5 @@
 # 🌟 Jeju_AI_hackaton2025
-![KakaoTalk_20250219_025906492](https://github.com/user-attachments/assets/e2b383c7-fb0d-493c-ac27-57f0dcd636ac)
+
 team:오르지오(김형선, 황우혁)
 ## 🏖️ 프로젝트 소개  
 **Treasure-O 프로젝트**는 제주 관광지를 활용한 보물찾기 게임입니다. YOLO 기반의 이미지 인식 기술과 GPS 위치 추적을 활용하여 관광지 랜드마크를 찾아가고, 성공 시 관광 쿠폰을 제공하는 방식으로 운영됩니다.
@@ -78,6 +78,8 @@ team:오르지오(김형선, 황우혁)
 1. 제주 원도심 지역 상인 대상 인터뷰 진행 → 쿠폰 발행에 대한 긍정적 반응 확인
 2. 기존 관광 트렌드 분석 → 사용자 맞춤형 콘텐츠 제공 필요성 도출
 3. 하버사인 공식을 이용한 정확한 위치 추적 적용
+
+## 발표 자료 : https://drive.google.com/file/d/1aPihJt9ugOUW-52djYzyRZwp-IXrhZSa/view?usp=drive_link
 
 ## 프로젝트 시 및 현재 성과
 - 제주 랜드마크 사진 400장 학습을 통해 **YOLO 모델 85% 정확도 달성**
